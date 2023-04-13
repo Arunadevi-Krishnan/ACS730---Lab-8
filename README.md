@@ -1,3 +1,3 @@
 # ACS730---Lab-8
 Working with Github Actions
-Sample 2
+Sample 1
